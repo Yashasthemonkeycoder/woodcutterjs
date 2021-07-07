@@ -1,4 +1,4 @@
-
+<script>
       // long code, sorry
 
 alert("welcome to the game The Woodcutter!")
@@ -178,3 +178,4 @@ function okbe(){
     
 
 }
+</script>
